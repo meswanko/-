@@ -1,0 +1,6 @@
+xrandr --output eDP-1 --brightness 0.75
+ 
+eDP-1を0.75にする
+※数字は0~1.0
+※eDP-1はスクリーンの名前
+※スクリーンの名前(今回はeDP-1)は xrandr -q | grep " connected" で調べる
