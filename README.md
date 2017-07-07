@@ -1,2 +1,0 @@
-# Setting
-debianの設定
